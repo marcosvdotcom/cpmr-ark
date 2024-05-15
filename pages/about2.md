@@ -18,6 +18,7 @@ credits: true
 
 
 ## Sonia Lopez
+<img source="https://chicanapormiraza.org/sites/default/files/styles/large/public/sonialopez.jpg?itok=xsDOH9hu">
 <h3>“My whole life was around my politics, my schoolwork and being a student was secondary.”</h3>
 <p>Born: Sonora Mexico	</p>
 <p>Education: San Diego State</p>	
@@ -34,4 +35,6 @@ credits: true
 <p>Lopez’s political involvement opened doors, but it also limited her ability to be a student. In 1970, she left San Diego State, putting schoolwork secondary to politics, and traveled around the country advocating for Chicana/o rights with figures like Corky Gonzalez, Reyes Lopez Tijerina, both of whom she openly challenged about sexist remarks. She later went to Sacramento to finish her coursework. When she finished school, Lopez returned to Calexico to help with a brother who was struggling with addiction, and remained in Calexico for several years, working as a counselor in the high school and as a campaign manager for a friend in 1975.</p>
 
 <p>Lopez went on to teach as a professor, first at San Diego State, and then at Fullerton State. She also attended law school. Through studying law, Lopez became passionate about immigration reform, and began to work with undocumented youth. She remains active in Chicana/o rights, and acknowledges the positive social change she and other women have created. Lopez wants her experiences to help tell the story of many women who, forgotten by history, made a real difference in the Chicana/o movement.&nbsp;</p>
+
+<p><iframe frameborder="0" height="650" scrolling="no" src="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=19J_ji6RrpZ4bNISRI380rWHYgtGnBAaMUNA9MxxINjI&amp;font=Bevan-PotanoSans&amp;maptype=toner&amp;lang=en&amp;height=650" width="100%"></iframe></p>
 
