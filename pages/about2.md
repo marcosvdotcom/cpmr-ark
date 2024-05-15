@@ -18,7 +18,14 @@ credits: true
 
 
 ## Sonia Lopez
-<img source="https://chicanapormiraza.org/sites/default/files/styles/large/public/sonialopez.jpg?itok=xsDOH9hu">
+
+Picture 1 <br>
+![Sonia Lopez](https://chicanapormiraza.org/sites/default/files/styles/large/public/sonialopez.jpg)
+
+Picture 2 <br>
+
+<img src="https://chicanapormiraza.org/sites/default/files/styles/large/public/sonialopez.jpg" alt="Sonia Lopez" style="height: 100px; width:100px;"/>
+
 <h3>“My whole life was around my politics, my schoolwork and being a student was secondary.”</h3>
 <p>Born: Sonora Mexico	</p>
 <p>Education: San Diego State</p>	
