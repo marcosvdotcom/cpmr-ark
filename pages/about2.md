@@ -44,22 +44,20 @@ Mention Heritage Days and finding links to similar content in you region
 
 ## Further Reading and Watching on the History of Flintknapping and Experimental Archaeology
 
-[History of Flintknapping with Steven Kulupeč Saffold.](https://www.youtube.com/watch?v=2GLHA4liRoU)
+*[History of Flintknapping with Steven Kulupeč Saffold.](https://www.youtube.com/watch?v=2GLHA4liRoU)
 Chumash artist  Steven Kulupeč Saffold discusses the history of flintknapping.
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2GLHA4liRoU?si=rzrjKTVpnwx-4TB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*[“4 Iconic Paleolithic Tools You Thought You Knew…”](https://www.ancientcraft.co.uk/post/4-iconic-palaeolithic-tools-you-thought-you-knew)
 
-[“4 Iconic Paleolithic Tools You Thought You Knew…”](https://www.ancientcraft.co.uk/post/4-iconic-palaeolithic-tools-you-thought-you-knew)
-
- A more technical discussion that is still good for beginners about common groups or types of tools.
+A more technical discussion that is still good for beginners about common groups or types of tools.
 Learning about experimental archaeology 
 
-[“Northeast Archaeology Lab with Dr. Bonnie Newsom”](https://www.youtube.com/watch?v=LJNhVc8Cn74)
+*[“Northeast Archaeology Lab with Dr. Bonnie Newsom”](https://www.youtube.com/watch?v=LJNhVc8Cn74)
 A tour of the Northeast Archaeology Lab with Dr. Bonnie Newsom, who is also an advisory board member on the Crabtree grant.
 
-[“Recreating our past: 10,000 year old mesolithic dwelling replicated by experimental archaeologists”](https://www.youtube.com/watch?v=WKYPLffs748)
+*[“Recreating our past: 10,000 year old mesolithic dwelling replicated by experimental archaeologists”](https://www.youtube.com/watch?v=WKYPLffs748)
 
-[“How Archaeologists Are Literally Recreating the Past | Experimental Archaeology”](
+*[“How Archaeologists Are Literally Recreating the Past | Experimental Archaeology”](
 https://www.youtube.com/watch?v=j7767z2SuzA)
 
 <br>
