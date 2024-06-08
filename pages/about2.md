@@ -23,7 +23,7 @@ Flintknapping has a complicated presence on the internet, perhaps especially for
 YouTube embed:
 https://www.youtube.com/watch?v=M8lwAeBacxw
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M8lwAeBacxw?si=b2m_ZfJn520nIGVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/M8lwAeBacxw?si=b2m_ZfJn520nIGVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Grayson demonstrates flintknapping and discusses flintknapping’s history and context, especially for Cherokee people.*
 
@@ -35,20 +35,19 @@ https://www.instagram.com/truetotradition/reel/C6PXIOhSUqh/), who has an instagr
 ## Flintknapping at the University of Idaho
 
 
-[CB Embed of Sappington Demo Interviews]()
+CB Embed of Sappington Demo Interviews
 
 In addition to containing the word class Crabtree Collection, the University of Idaho is also home to present day experts in flintknapping like our very own Professor Lee Sappington, PhD. Here is a short clip where Professor Sappington demonstrates the basics of flintknapping. Be sure to watch the in-depth videos here and here.
 
 ## Flintknapping for Kid’s and Youth 
 
--Blurb from Leah and Link to Kid’s Books
+Blurb from Leah and Link to Kid’s Books
 
--Mention Heritage Days and finding links to similar content in you region
+Mention Heritage Days and finding links to similar content in you region
 
 
 
 ## Further Reading and Watching on the History of Flintknapping and Experimental Archaeology
-
 
 
 History of Flintknapping with Steven Kulupeč Saffold.
@@ -59,7 +58,6 @@ https://www.youtube.com/watch?v=2GLHA4liRoU
 
 [“4 Iconic Paleolithic Tools You Thought You Knew…”](https://www.ancientcraft.co.uk/post/4-iconic-palaeolithic-tools-you-thought-you-knew)
  A more technical discussion that is still good for beginners about common groups or types of tools.
-
 
 Learning about experimental archaeology 
 [“Northeast Archaeology Lab with Dr. Bonnie Newsom”](https://www.youtube.com/watch?v=LJNhVc8Cn74)
