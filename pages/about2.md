@@ -78,7 +78,7 @@ From: [“Trading in Native artifacts does real harm”](https://www.hcn.org/art
 
 >“Finding high-quality rock for making points became an obsession, too. Over the years, I have hauled in a massive quantity of rock! There are some ethics to harvesting good flaking rock so that the archaeological record isn’t damaged or contaminated—we don’t want to create new sites. Moreover, flintknapping should never be done on or near sites. Most places with high-quality flaking stone today were also used in the past, and are covered with artifacts from the quarrying process. Collecting material people used and discarded in the past, or striking flakes into such materials, destroys the archaeological record. So, I collect in rivers and washes that have exposed new, unworked material. I test cobbles in washes or rivers that have no context, as everything is washed away when it floods.”
 
-From: (“My Flintknapping Problem”)[https://www.archaeologysouthwest.org/2015/12/17/my-flintknapping-problem/]
+From: [“My Flintknapping Problem”](https://www.archaeologysouthwest.org/2015/12/17/my-flintknapping-problem/)
 
 
 >“So…Can I Pick up the Arrowhead? The short answer: you can pick it up, take pictures of it, and take a waypoint to share with an archaeologist, but you can’t take it home with you, especially if you’re like me and mostly hunt on state- or federally-owned lands. Rock art, whether painted or incised, should never be touched; the oils from our hands can damage the panel both instantly and over time.”
