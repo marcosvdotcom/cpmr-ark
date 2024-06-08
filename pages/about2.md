@@ -35,13 +35,13 @@ https://www.instagram.com/truetotradition/reel/C6PXIOhSUqh/), who has an instagr
 ## Flintknapping at the University of Idaho
 
 
--CB Embed of Sappington Demo Interviews
+[CB Embed of Sappington Demo Interviews]()
 
 In addition to containing the word class Crabtree Collection, the University of Idaho is also home to present day experts in flintknapping like our very own Professor Lee Sappington, PhD. Here is a short clip where Professor Sappington demonstrates the basics of flintknapping. Be sure to watch the in-depth videos here and here.
 
 ## Flintknapping for Kid’s and Youth 
 
--Blurb from Leah and Link to Kid’s Books>
+-Blurb from Leah and Link to Kid’s Books
 
 -Mention Heritage Days and finding links to similar content in you region
 
