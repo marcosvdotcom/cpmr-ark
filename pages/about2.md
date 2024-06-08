@@ -59,9 +59,12 @@ https://www.youtube.com/watch?v=j7767z2SuzA)
 
 ## Further Reading on Respecting Cultural Heritage While Flintknapping
 <p>
->“IE: What do you want archaeologists and collectors to know to move collaborative practice forward?<br>
 
->ADK: Everyone collecting artifacts, whether as an archaeologist or a collector, should treat artifacts with respect as potentially sacred items. Think about why they were left behind. What were the social and political contexts during loss or that caused the artifact to be left behind? Recognize that abandonment of some stuff maybe was not the choice of the people but was forced by circumstances or pressures on them. Remember that these artifacts belonged to someone else from another time and had importance in their lives. It would be better if collectors recorded where they found things but left them alone.”
+>IE: What do you want archaeologists and collectors to know to move collaborative practice forward? 
+
+<br>
+
+>ADK: Everyone collecting artifacts, whether as an archaeologist or a collector, should treat artifacts with respect as potentially sacred items. Think about why they were left behind. What were the social and political contexts during loss or that caused the artifact to be left behind? Recognize that abandonment of some stuff maybe was not the choice of the people but was forced by circumstances or pressures on them. Remember that these artifacts belonged to someone else from another time and had importance in their lives. It would be better if collectors recorded where they found things but left them alone.
 
 From: [“Some Indigenous Perspectives on Artifact Collecting and Archaeologist–Collector Collaboration”](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/some-indigenous-perspectives-on-artifact-collecting-and-archaeologistcollector-collaboration/67A777A3B41ACAF67152A07D874DEB26)
 
