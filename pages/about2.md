@@ -81,6 +81,7 @@ From: [“Trading in Native artifacts does real harm”](https://www.hcn.org/art
 From: [“My Flintknapping Problem”](https://www.archaeologysouthwest.org/2015/12/17/my-flintknapping-problem/)
 
 
+
 >“So…Can I Pick up the Arrowhead? The short answer: you can pick it up, take pictures of it, and take a waypoint to share with an archaeologist, but you can’t take it home with you, especially if you’re like me and mostly hunt on state- or federally-owned lands. Rock art, whether painted or incised, should never be touched; the oils from our hands can damage the panel both instantly and over time.”
 
 From: [“Archaeology Explained: Can I Pick Up that Arrowhead?”](https://www.themeateater.com/conservation/anthropology/archaeology-explained-can-i-pick-up-that-arrowhead)
