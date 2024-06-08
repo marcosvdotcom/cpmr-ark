@@ -23,7 +23,7 @@ Flintknapping has a complicated presence on the internet, perhaps especially for
 YouTube embed:
 https://www.youtube.com/watch?v=M8lwAeBacxw
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/M8lwAeBacxw?si=b2m_ZfJn520nIGVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M8lwAeBacxw?si=b2m_ZfJn520nIGVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Grayson demonstrates flintknapping and discusses flintknapping’s history and context, especially for Cherokee people.*
 
