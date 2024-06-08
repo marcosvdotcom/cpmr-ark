@@ -58,22 +58,24 @@ A tour of the Northeast Archaeology Lab with Dr. Bonnie Newsom, who is also an a
 https://www.youtube.com/watch?v=j7767z2SuzA)
 
 ## Further Reading on Respecting Cultural Heritage While Flintknapping
+<p>
+>“IE: What do you want archaeologists and collectors to know to move collaborative practice forward?<br>
 
->“IE: What do you want archaeologists and collectors to know to move collaborative practice forward?
 >ADK: Everyone collecting artifacts, whether as an archaeologist or a collector, should treat artifacts with respect as potentially sacred items. Think about why they were left behind. What were the social and political contexts during loss or that caused the artifact to be left behind? Recognize that abandonment of some stuff maybe was not the choice of the people but was forced by circumstances or pressures on them. Remember that these artifacts belonged to someone else from another time and had importance in their lives. It would be better if collectors recorded where they found things but left them alone.”
 
 From: [“Some Indigenous Perspectives on Artifact Collecting and Archaeologist–Collector Collaboration”](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/some-indigenous-perspectives-on-artifact-collecting-and-archaeologistcollector-collaboration/67A777A3B41ACAF67152A07D874DEB26)
 
+<p>
 
 >“Existing federal statutes and international treaties are woefully incomplete and often ineffective at preventing the escalation of looting on Indian reservations, public or private lands, and they are completely inadequate when it comes to halting private land foraging. Diggers on private lands need only the landowner’s permission. Sacred items and even the remains of ancestors and their burial belongings continue to be sold in the “art” market, without any notification of the affected tribes. Auctioneers and traders of “antique” Indian art claim that they need tribes to furnish lists of what constitutes their sacred items. Otherwise, we are told, these dealers have no way of knowing how to make such determinations on their own. This is both specious and disingenuous. The high market value the collectors place on these items is indicative of their special attributes of spirituality. Traders cannot claim ignorance and, at the same time, benefit from the “perception” of sacredness.”
 
 [“Trading in Native artifacts does real harm”](https://www.hcn.org/articles/indigenous-affairs-justice-trading-in-native-artifacts-does-real-harm/)
-
+<p>
 
 >“Finding high-quality rock for making points became an obsession, too. Over the years, I have hauled in a massive quantity of rock! There are some ethics to harvesting good flaking rock so that the archaeological record isn’t damaged or contaminated—we don’t want to create new sites. Moreover, flintknapping should never be done on or near sites. Most places with high-quality flaking stone today were also used in the past, and are covered with artifacts from the quarrying process. Collecting material people used and discarded in the past, or striking flakes into such materials, destroys the archaeological record. So, I collect in rivers and washes that have exposed new, unworked material. I test cobbles in washes or rivers that have no context, as everything is washed away when it floods.”
 
 (“My Flintknapping Problem”)[https://www.archaeologysouthwest.org/2015/12/17/my-flintknapping-problem/]
-
+<p>
 
 >“So…Can I Pick up the Arrowhead? The short answer: you can pick it up, take pictures of it, and take a waypoint to share with an archaeologist, but you can’t take it home with you, especially if you’re like me and mostly hunt on state- or federally-owned lands. Rock art, whether painted or incised, should never be touched; the oils from our hands can damage the panel both instantly and over time.”
 
