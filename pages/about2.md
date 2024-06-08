@@ -30,10 +30,7 @@ https://www.youtube.com/watch?v=M8lwAeBacxw
 Other Indigenous creators are using platforms like TikTok or Instagram to showcase their flintknapping practice, as well as sharing cultural knowledges and contexts. Chumash artist [Steve Kulupeč Saffold](
 https://www.instagram.com/truetotradition/reel/C6PXIOhSUqh/), who has an instagram handle under “truetotradition”, which has almost 50k followers, is a great example.  Saffold showcases beautiful bifaces, projectile points, and other creations he makes by flintknapping and other traditional arts practices.  
 
-
-
 ## Flintknapping at the University of Idaho
-
 
 CB Embed of Sappington Demo Interviews
 
@@ -45,33 +42,22 @@ Blurb from Leah and Link to Kid’s Books
 
 Mention Heritage Days and finding links to similar content in you region
 
-
-
 ## Further Reading and Watching on the History of Flintknapping and Experimental Archaeology
 
-
-History of Flintknapping with Steven Kulupeč Saffold.
+*History of Flintknapping with Steven Kulupeč Saffold.
 Chumash artist  Steven Kulupeč Saffold discusses the history of flintknapping.
 https://www.youtube.com/watch?v=2GLHA4liRoU
-
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2GLHA4liRoU?si=rzrjKTVpnwx-4TB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[“4 Iconic Paleolithic Tools You Thought You Knew…”](https://www.ancientcraft.co.uk/post/4-iconic-palaeolithic-tools-you-thought-you-knew)
+*[“4 Iconic Paleolithic Tools You Thought You Knew…”](https://www.ancientcraft.co.uk/post/4-iconic-palaeolithic-tools-you-thought-you-knew)
  A more technical discussion that is still good for beginners about common groups or types of tools.
-
 Learning about experimental archaeology 
-[“Northeast Archaeology Lab with Dr. Bonnie Newsom”](https://www.youtube.com/watch?v=LJNhVc8Cn74)
+*[“Northeast Archaeology Lab with Dr. Bonnie Newsom”](https://www.youtube.com/watch?v=LJNhVc8Cn74)
 A tour of the Northeast Archaeology Lab with Dr. Bonnie Newsom, who is also an advisory board member on the Crabtree grant.
-
-[“Recreating our past: 10,000 year old mesolithic dwelling replicated by experimental archaeologists”](https://www.youtube.com/watch?v=WKYPLffs748)
-
-[“How Archaeologists Are Literally Recreating the Past | Experimental Archaeology”](
+*[“Recreating our past: 10,000 year old mesolithic dwelling replicated by experimental archaeologists”](https://www.youtube.com/watch?v=WKYPLffs748)
+*[“How Archaeologists Are Literally Recreating the Past | Experimental Archaeology”](
 https://www.youtube.com/watch?v=j7767z2SuzA)
 
-
-
 ## Further Reading on Respecting Cultural Heritage While Flintknapping
-
 
 >“IE: What do you want archaeologists and collectors to know to move collaborative practice forward?
 >ADK: Everyone collecting artifacts, whether as an archaeologist or a collector, should treat artifacts with respect as potentially sacred items. Think about why they were left behind. What were the social and political contexts during loss or that caused the artifact to be left behind? Recognize that abandonment of some stuff maybe was not the choice of the people but was forced by circumstances or pressures on them. Remember that these artifacts belonged to someone else from another time and had importance in their lives. It would be better if collectors recorded where they found things but left them alone.”
